@@ -1,18 +1,16 @@
-<html>
-<head><title>First JSP</title></head>
-<body>
-  <%
-    double num = Math.random();
-    if (num > 0.95) {
-  %>
-      <h2>You'll have a luck day!</h2><p>(<%= num %>)</p>
-  <%
-    } else {
-  %>
-      <h2>Well, life goes on ... </h2><p>(<%= num %>)</p>
-  <%
-    }
-  %>
-  <a href="<%= request.getRequestURI() %>"><h3>Try Again</h3></a>
-</body>
-</html>
+<%@ page language="java" contentType="text/html"%>
+<%@ page import="java.text.*,java.util.*" %>
+<HTML>
+<HEAD>
+<TITLE>JSP Example</TITLE>
+</HEAD>
+<BODY BGCOLOR="1d898c">
+<CENTER>
+<H2>Date and Time</H2>
+<%
+java.util.Date today = new java.util.Date();
+out.println("Today's date is: "+today);
+%>
+</CENTER>
+</BODY>
+</HTML>
