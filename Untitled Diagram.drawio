@@ -1,1 +1,135 @@
-<mxfile host="app.diagrams.net" modified="2022-08-30T16:46:41.132Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="RQ--Azl8yCowFOsLrEmi" version="20.2.7" type="github"><diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">7Vttb5s6GP01SHcfVoEJSfuxYckmLbmr2m77eOWCA9YIRsZ526+fDTaEOGlhd2m8JlLUwMMTg59zfGyfJpbrz9cfKcziKQlRYgE7XFvuBwsABwCXv4nIpowMbgZlIKI4lEl14AH/RDJoy+gChyhvJDJCEoazZjAgaYoC1ohBSsmqmTYjSfOuGYyQFngIYKJHv+OQxWX02rPr+CeEo1jd2bHllTlUyTKQxzAkq0YIrdmYpEw+4h2ic5iilPErU0h/IGp5o5gx0dNbC4z5ayayryJCogTBDOdXAZnzcJDzlPEMznEiyrzV0FA2xG/njizXp4Sw8mi+9lEisFIwlM80PnC1qgMV7bb4gP9+uZn8sFn6aeV+Y9NpdDd4ei9bWcJkIesra8M2quAo5PWXp/xWmG3uUQIZJumovjJEaXgr0OVJo/ufiJJHMoUp7/wwZ5Cy+hpJZfoY88dzPzgqRZ7b/FzvmnzOnCxogJ7pD+hJSkIaIfZMYl8CHjbYJiv3EZE5YnTDE1Y1xyomxdv8UkFaFGXZZCmUTIqqBqt73BFcEEsOTLcn21HDUlFSNVF2XX5qG+adhno7DfV3GypLozXED7Y6XocKFnVhFHhjlHJbMsoZGEapnt1kgnP9u5TqNxsCtveqlNIZ9YWGiOYar7iiZ+KQwaeCQQUJ5BTmChbwSYlBnHL9LVkSkCSBWY6L9DIS4yScwA1ZMNWQOhvO8BqF9+UMJnI5/ya8sVxSTMwFitXiMkxwlPLjgFNO3HFIUc6fZQJzJjMOknKJKEPrZ1mksPF2QFbDfYtlwNvHMtc+TKgGgl3hcl8WAAUU7zrDMLnnCwWYRgVmTUhEXUNKskc1+kQgE0RDdLRE5VRdFJ8PdZ8kRCCbloJQpBWd84b8xbvr21ee5fEH8Pm5U5/zl0inzCdpzijEBRyIA7VCAqwhI5m8T4Jm6jGoLKY4fiKM8Zn/EKzP0vplrCW2bktoj4ZsT0P27nMXbAnv6ywpVDvGYYjSckiKdSKs8d4D5d76VzXfBWN3ILbEw22NxxYA7mvW39PqT4QQ/sc/5APr1i5V+98vj+Lv18nEqpa6JsGjdLHMHeYZDHAaTcpP9nfw846B39o6OJ7Aa+LZP2el3L8q+zNK2T+1Ug40ZMefnS7gvtJYbAlAvzUAp5LGa63gwSLnfS7VEeyRRuOweFEX/zhYpujgzUUHj6ODN6fWQeUa/ia0ZqngTevyn0oFHd3PK1eIIWSIx+XbWchge7RMkUFH3zk/xDibF6J18To0rwNct5S343kdjr4lPqOpq8Pm2mm/OzPF7XD07fZbsjsq6ho8nekb5FwK4sXz6AqiMbOcvjc+I8nssNzsLpkntz0cfRv+V/seFVcN1kh981yZwmdle3TAyhQpBP9vd3yRQoOdD6BvxQ0cfC3rXxHVXB1U5d23VjxD96MDYsaooW5/+NLDv9gf1tZXOzp/1cM+GmQX+6PlcPz77A/wtu0PYL79AXT746V/ap6T99EBQWOmuIv3cSy9PLn3AXTvw8DB2Lb+5hsfQDc+KnVM4Vys9IMY0n88+93ZLPpNskD4af3jlvKr4PUvktzRLw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-30T17:06:17.152Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="mtOITOoT1Hd9q8-9nOcq" version="20.2.7" type="github">
+  <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
+    <mxGraphModel dx="2037" dy="1179" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zEqMYf6lLyrqSOWexg3r-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontStyle=1;sketch=1;" edge="1" parent="1" source="zEqMYf6lLyrqSOWexg3r-1" target="zEqMYf6lLyrqSOWexg3r-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zEqMYf6lLyrqSOWexg3r-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1;sketch=1;" edge="1" parent="1" source="zEqMYf6lLyrqSOWexg3r-1" target="zEqMYf6lLyrqSOWexg3r-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zEqMYf6lLyrqSOWexg3r-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1;sketch=1;" edge="1" parent="1" source="zEqMYf6lLyrqSOWexg3r-1" target="zEqMYf6lLyrqSOWexg3r-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zEqMYf6lLyrqSOWexg3r-1" value="&lt;span&gt;מסך&amp;nbsp;&lt;br&gt;&lt;/span&gt;אורח&amp;nbsp;&lt;br&gt;משתמש חדש&lt;br&gt;משתמש קיים" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="100" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zEqMYf6lLyrqSOWexg3r-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1;sketch=1;" edge="1" parent="1" source="zEqMYf6lLyrqSOWexg3r-3" target="zEqMYf6lLyrqSOWexg3r-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zEqMYf6lLyrqSOWexg3r-3" value="" style="ellipse;fontStyle=1;sketch=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="40" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zEqMYf6lLyrqSOWexg3r-4" value="כניסה למערכת" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;sketch=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="365" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zEqMYf6lLyrqSOWexg3r-33" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;sketch=1;" edge="1" parent="1" source="zEqMYf6lLyrqSOWexg3r-6" target="zEqMYf6lLyrqSOWexg3r-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zEqMYf6lLyrqSOWexg3r-6" value="אורח" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="210" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zEqMYf6lLyrqSOWexg3r-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1;sketch=1;" edge="1" parent="1" source="zEqMYf6lLyrqSOWexg3r-7" target="zEqMYf6lLyrqSOWexg3r-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zEqMYf6lLyrqSOWexg3r-7" value="אורח" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="210" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zEqMYf6lLyrqSOWexg3r-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1;sketch=1;" edge="1" parent="1" source="zEqMYf6lLyrqSOWexg3r-10" target="zEqMYf6lLyrqSOWexg3r-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zEqMYf6lLyrqSOWexg3r-10" value="משתמש חדש" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="210" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zEqMYf6lLyrqSOWexg3r-18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontStyle=1;sketch=1;" edge="1" parent="1" source="zEqMYf6lLyrqSOWexg3r-14" target="zEqMYf6lLyrqSOWexg3r-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zEqMYf6lLyrqSOWexg3r-14" value="תהליך הרשמה" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="320" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zEqMYf6lLyrqSOWexg3r-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1;sketch=1;" edge="1" parent="1" source="zEqMYf6lLyrqSOWexg3r-16" target="zEqMYf6lLyrqSOWexg3r-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zEqMYf6lLyrqSOWexg3r-22" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.625;entryY=-0.006;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1;sketch=1;" edge="1" parent="1" source="zEqMYf6lLyrqSOWexg3r-16" target="zEqMYf6lLyrqSOWexg3r-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zEqMYf6lLyrqSOWexg3r-26" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fontStyle=1;sketch=1;" edge="1" parent="1" source="zEqMYf6lLyrqSOWexg3r-16" target="zEqMYf6lLyrqSOWexg3r-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="373" />
+              <mxPoint x="330" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zEqMYf6lLyrqSOWexg3r-16" value="מסך&lt;br&gt;התחברות" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="320" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zEqMYf6lLyrqSOWexg3r-34" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;sketch=1;" edge="1" parent="1" source="zEqMYf6lLyrqSOWexg3r-19" target="zEqMYf6lLyrqSOWexg3r-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zEqMYf6lLyrqSOWexg3r-19" value="&lt;span&gt;מסך&lt;br&gt;הוספת מסלול טיול&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="440" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zEqMYf6lLyrqSOWexg3r-31" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1;sketch=1;" edge="1" parent="1" source="zEqMYf6lLyrqSOWexg3r-21" target="zEqMYf6lLyrqSOWexg3r-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zEqMYf6lLyrqSOWexg3r-21" value="&lt;span&gt;מסך&lt;br&gt;רשימת מסלולי טיול&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="440" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zEqMYf6lLyrqSOWexg3r-28" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontStyle=1;sketch=1;" edge="1" parent="1" source="zEqMYf6lLyrqSOWexg3r-23" target="zEqMYf6lLyrqSOWexg3r-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zEqMYf6lLyrqSOWexg3r-29" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fontStyle=1;sketch=1;" edge="1" parent="1" source="zEqMYf6lLyrqSOWexg3r-23" target="zEqMYf6lLyrqSOWexg3r-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zEqMYf6lLyrqSOWexg3r-23" value="&lt;font color=&quot;#000000&quot;&gt;אדמיניסטרטור&lt;br&gt;הוספת מסלולי טיול&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;sketch=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="355" y="440" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zEqMYf6lLyrqSOWexg3r-24" value="&lt;span&gt;&lt;font color=&quot;#000000&quot;&gt;אישור משתמשים&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;sketch=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="500" y="320" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zEqMYf6lLyrqSOWexg3r-25" value="&lt;font color=&quot;#000000&quot;&gt;הסרת משתמשים&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;sketch=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="640" y="320" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zEqMYf6lLyrqSOWexg3r-30" value="מסך&lt;br&gt;עריכת מסלול טיול" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="560" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zEqMYf6lLyrqSOWexg3r-40" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1;sketch=1;" edge="1" parent="1" source="zEqMYf6lLyrqSOWexg3r-32" target="zEqMYf6lLyrqSOWexg3r-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zEqMYf6lLyrqSOWexg3r-41" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1;sketch=1;" edge="1" parent="1" source="zEqMYf6lLyrqSOWexg3r-32" target="zEqMYf6lLyrqSOWexg3r-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zEqMYf6lLyrqSOWexg3r-32" value="מסך&lt;br&gt;מפה" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="650" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zEqMYf6lLyrqSOWexg3r-42" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;sketch=1;fontStyle=1;" edge="1" parent="1" source="zEqMYf6lLyrqSOWexg3r-35" target="zEqMYf6lLyrqSOWexg3r-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zEqMYf6lLyrqSOWexg3r-47" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;sketch=1;fontStyle=1;" edge="1" parent="1" source="zEqMYf6lLyrqSOWexg3r-35" target="zEqMYf6lLyrqSOWexg3r-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zEqMYf6lLyrqSOWexg3r-48" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;sketch=1;fontStyle=1;" edge="1" parent="1" source="zEqMYf6lLyrqSOWexg3r-35" target="zEqMYf6lLyrqSOWexg3r-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zEqMYf6lLyrqSOWexg3r-35" value="&lt;span&gt;מסך&lt;br&gt;&lt;/span&gt;פירוט על המסלולים ושמורת הטבע באזור" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="780" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zEqMYf6lLyrqSOWexg3r-36" value="&lt;span style=&quot;&quot;&gt;עריכת תגובה&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="890" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zEqMYf6lLyrqSOWexg3r-37" value="הוספת תגובה" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="890" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zEqMYf6lLyrqSOWexg3r-38" value="עריכת&amp;nbsp; בתגובת" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="890" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zEqMYf6lLyrqSOWexg3r-39" value="&lt;span&gt;מסך&amp;nbsp;&lt;br&gt;&lt;/span&gt;כנסיה לאפליקציית&amp;nbsp;&lt;br&gt;ניווט" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="780" width="110" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
